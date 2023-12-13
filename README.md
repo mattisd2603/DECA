@@ -31,6 +31,7 @@ Clone the repo:
 * face-alignment (Optional for detecting face)  
   You can run 
   ```bash
+  conda install -c "nvidia/label/cuda-11.6.1" cuda
   pip install -r requirements.txt
   ```
   Or use virtual environment by runing 
